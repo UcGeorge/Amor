@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "337246623306",
+    "project_id": "amor-2246d",
+    "storage_bucket": "amor-2246d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337246623306:android:c78e824775476e8c54f8b3",
+        "android_client_info": {
+          "package_name": "com.amor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337246623306-pdemnlh3jv66r908sk660b95b85tp6t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhDDh6v6-ENbupjEiidhb2XNfS9JER0po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337246623306-pdemnlh3jv66r908sk660b95b85tp6t0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337246623306-v7ak5acm9vkc2bp2956soh7cfsp3phlb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amor.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
